@@ -209,8 +209,9 @@ pip install pydantic
 4. For Running in development mode: ``fastapi dev acra.py``
 5. For Running in Production mode: ``fastapi run acra.py`` This will launch the app in the localhost: ``http://localhost:8000/docs``
 
-##LIVE VERSION
+## LIVE VERSION
 Find the running app here:
-Backend: https://arithmeticcalculatorrestapi.onrender.com/docs
-Frontend: https://main--react-arithmetic-calculator-2024.netlify.app/
+
+- BackEnd: https://arithmeticcalculatorrestapi.onrender.com/docs
+- FrontEnd: https://main--react-arithmetic-calculator-2024.netlify.app/
 
