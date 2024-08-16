@@ -212,6 +212,6 @@ pip install pydantic
 ## LIVE VERSION
 Find the running app here:
 
-- BackEnd: [https://arithmeticcalculatorrestapi.onrender.com/docs](https://img-arithmetic-calculator-restapi-3rzadn5oaa-uc.a.run.app/docs)
-- FrontEnd: [https://main--react-arithmetic-calculator-2024.netlify.app/](https://main--react-arithmetic-calculator-2024.netlify.app/)
+- BackEnd: https://img-arithmetic-calculator-restapi-3rzadn5oaa-uc.a.run.app/docs
+- FrontEnd: https://main--react-arithmetic-calculator-2024.netlify.app/
 
